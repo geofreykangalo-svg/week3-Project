@@ -34,6 +34,8 @@ The practical work will involve:
 - Identifying weaknesses in password selection.
 - Understanding the importance of secure password storage.
 - Developing recommendations for stronger password security.
+<img width="774" height="509" alt="image" src="https://github.com/user-attachments/assets/c83967ce-8b4f-4115-9bcf-9f76c771caf7" />
+
 
 ## 6. Ethical Considerations
 All experiments will be conducted using authorized test data and systems. No unauthorized access to personal accounts or computer systems will be performed.
